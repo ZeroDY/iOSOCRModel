@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>00679C08-31EA-4801-BC1A-5FBC57B27BE6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TestOCR</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B852D8600639E054A123D8FBBD1BE089E18309C5</key>
+		<string>http://10.222.39.20:8081/Bonobo.Git.Server/OCR-POC.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TestOCR.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B852D8600639E054A123D8FBBD1BE089E18309C5</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://10.222.39.20:8081/Bonobo.Git.Server/OCR-POC.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B852D8600639E054A123D8FBBD1BE089E18309C5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B852D8600639E054A123D8FBBD1BE089E18309C5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>OCR-POC</string>
+		</dict>
+	</array>
+</dict>
+</plist>

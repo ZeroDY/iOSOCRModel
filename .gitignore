@@ -1,0 +1,14 @@
+.DS_Store
+/TODO
+build/
+DerivedData/
+Pods/
+*.xcuserstate
+*.mode1v3
+*.mode2v3
+*.pbxuser
+*.perspectivev3
+*.xcuserdatad
+*.LSOverride
+*.xcconfig
+*.lock
